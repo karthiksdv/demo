@@ -8,5 +8,9 @@ DevOps
 Jenkins
 Docker
 
+Web Technologies
+HTML
+Java Script
+
 Cheers,
 Karthik.
